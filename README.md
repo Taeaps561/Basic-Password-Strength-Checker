@@ -28,7 +28,7 @@
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://www.youtube.com/watch?v=TainXzrMpHA](https://www.youtube.com/watch?v=TainXzrMpHA)
+    git clone https://github.com/Taeaps561/Basic-Password-Strength-Checker.git
     cd basic-password-checker
     ```
 2.  **รันสคริปต์:**
